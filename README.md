@@ -1,5 +1,6 @@
 ### Hello world 👋
 
+- At [Red Hat](https://redhat.com), I help clients solve infrastructure challenges using open source solutions
 - I am a proud alumni of the [Virginia Tech Department of Computer Science](https://cs.vt.edu) where I focused on computer systems, infrastructure, DevOps, and software engineering. Check out my [publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=741Kg2QAAAAJ&citation_for_view=741Kg2QAAAAJ:u5HHmVD_uO8C) at the intersection of DevOps and CS education
 - Learn more about me and read my blog posts on [my website](https://ryangniadek.com/)
 - [Contact me](https://ryangniadek.com/contact) if you want to collaborate. Interested in open source projects and business ventures
